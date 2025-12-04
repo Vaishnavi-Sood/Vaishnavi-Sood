@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi-sood&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi-sood" /> </p>
 
-- 🔭 I’m currently working on SQL Project [Data Analytics Project](https://github.com/Vaishnavi-Sood/sql-data-warehouse-project.git)
 
 - 🌱 I’m currently learning **Python(Programming language)**
 

@@ -57,18 +57,6 @@ I am a data-driven professional passionate about transforming raw data into mean
 📊 **Live Dashboard:**  
 👉 **[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmY1MjUzM2EtOGYyNy00MDVmLWFhZWMtNTY3NmU5Y2Y4ZWIxIiwidCI6IjYzZDU1Yjg3LTQ2MDktNGI1My1iOGI0LTExNmVhMzBiODA3NCJ9)**
 
----
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Sood&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Sood&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
